@@ -1,0 +1,9 @@
+*.class
+*.jar
+*.log
+*.tmp
+*.swp
+.DS_Store
+/bin/
+/out/
+/target/
